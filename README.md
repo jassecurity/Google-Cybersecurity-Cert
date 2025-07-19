@@ -11,8 +11,10 @@ It’s more like a personal scribble journal than a proper blog. So sorry if it 
 
 ## Blog Index
 
-1. Foundations of Cybersecurity 
+1. Foundations of Cybersecurity
+   
    [Module 1](./Foundations-of-Cybersecurity/module-01.html) *Stepping Into the Cybersecurity World*
+   
    [Module 2](./Foundations-of-Cybersecurity/module-02.html) *Diving into Cyber Attacks and Human Weakness*
 
 More coming as I progress 
