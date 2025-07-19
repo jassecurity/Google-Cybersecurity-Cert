@@ -1,7 +1,7 @@
 ---
 title: "Module 2 – Diving into Cyber Attacks & Human Weakness"
 parent: "Foundations of Cybersecurity"
-nav_order: 1
+nav_order: 2
 layout: default
 ---
 # Foundations of Cybersecurity 
