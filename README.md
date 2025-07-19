@@ -11,7 +11,7 @@ It’s more like a personal scribble journal than a proper blog. So sorry if it 
 
 ## Blog Index
 
-1. [Foundations of Cybersecurity – Module 1](./01_foundations-of-cybersecurity/module-01.html)
+1. [Foundations of Cybersecurity – Module 1](./Foundations-of-Cybersecurity/module-01.html)
 
 More coming as I progress 
 
