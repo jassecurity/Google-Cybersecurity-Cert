@@ -1,3 +1,9 @@
+---
+title: "Module 1 – Stepping Into the Cybersecurity World"
+parent: "Foundations of Cybersecurity"
+nav_order: 1
+layout: default
+---
 # Foundations of Cybersecurity
 ## Module 1 - Stepping Into the Cybersecurity World
 
