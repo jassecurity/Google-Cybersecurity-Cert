@@ -1,9 +1,4 @@
----
-layout: page
-title: "Stepping Into the Cybersecurity World"
----
-
-[# Foundations of Cybersecurity
+# Foundations of Cybersecurity
 ## Module 1 - Stepping Into the Cybersecurity World
 
 I just finished Module 1 of Google’s Cybersecurity Certificate, and while I’ve always had an interest in security, this gave structure and shape to that curiosity.
@@ -125,4 +120,4 @@ Malware, phishing, worms, and all the chaotic ways systems get compromised.
 Let’s go deeper.
 
 [← Back to Index](../../README.html) &nbsp; | &nbsp; [Next: Module 2 – My Dive into Cyber Attacks →](module-02.html)
-]
+
