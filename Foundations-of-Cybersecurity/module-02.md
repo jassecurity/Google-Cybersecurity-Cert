@@ -1,9 +1,4 @@
----
-layout: page
-title: "Diving into Cyber Attacks and Human Weakness"
----
-
-[# Foundations of Cybersecurity 
+# Foundations of Cybersecurity 
 ## Module 2 – Diving into Cyber Attacks
 
 Before this module, my mental image of cybersecurity threats was mostly some guy trying to crack passwords. But Module 2 went way beyond that. It exposed me to  the *psychology* behind cyber attacks.
@@ -126,4 +121,4 @@ Let’s go.
 
 [**Back to Module 1 – Stepping into the Cybersecurity World**](./module-01.md)  
 [**On to Module 3 – The Rules, The Ethics, The Frameworks**](./module-03.md)
-]
+
