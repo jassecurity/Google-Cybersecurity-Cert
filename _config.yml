@@ -1,1 +1,4 @@
-remote_theme: jekyll-clean/jekyll-clean
+remote_theme: scotte/jekyll-clean
+
+plugins:
+  - jekyll-remote-theme
