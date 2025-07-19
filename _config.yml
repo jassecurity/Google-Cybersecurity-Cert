@@ -7,4 +7,4 @@ baseurl: "/Google-Cybersecurity-Cert"
 permalink: /:title/
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-clean
+theme: just-the-docs
