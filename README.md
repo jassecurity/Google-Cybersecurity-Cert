@@ -2,7 +2,9 @@
 title: "Home"
 nav_order: 0
 layout: default
+permalink: "/"
 ---
+
 # Google Cybersecurity Certificate: My Personal Learning Journey
 
 Hi, I'm Jaspreet, and this is my raw, honest documentation of everything I'm learning in the **Google Cybersecurity Certificate**.
