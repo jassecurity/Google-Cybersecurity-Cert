@@ -14,5 +14,5 @@ This isn’t polished or perfect, just raw thoughts, confusions, and whatever cl
 ## Blog Index
 
 1. Foundations of Cybersecurity  
-   - [Module 1](/Google-Cybersecurity-Cert/Foundations-of-Cybersecurity/module-01.html) – *Stepping Into the Cybersecurity World*  
-   - [Module 2](/Google-Cybersecurity-Cert/Foundations-of-Cybersecurity/module-02.html) – *Diving into Cyber Attacks and Human Weakness*
+   - [Module 1](/Google-Cybersecurity-Cert/Foundations-of-Cybersecurity/module-01.md) – *Stepping Into the Cybersecurity World*  
+   - [Module 2](/Google-Cybersecurity-Cert/Foundations-of-Cybersecurity/module-02.md) – *Diving into Cyber Attacks and Human Weakness*
