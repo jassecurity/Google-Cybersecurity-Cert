@@ -5,7 +5,8 @@ layout: default
 permalink: "/"
 ---
 
-## Google Cybersecurity Certificate: My Personal Learning Journey
+# Google Cybersecurity Certificate: My Personal Learning Journey
+
 
 Hi, I'm Jaspreet, and this is my raw, honest documentation of everything I'm learning in the **Google Cybersecurity Certificate**.
 
@@ -15,7 +16,7 @@ It’s more like a personal scribble journal than a proper blog. So sorry if it 
 
 ---
 
-### Why I'm Doing This
+## Why I'm Doing This
 
 Cybersecurity has been an interest of mine since my undergrad studies, and that curiosity has only grown stronger over time.
 While I continue to enjoy working as a web project manager, I’ve also felt a strong pull to understand how things work on the security side.
@@ -25,7 +26,7 @@ This repo is my open notebook, for myself, and maybe for others figuring it out 
 
 ---
 
-### Blog Index
+## Blog Index
 
 1. Foundations of Cybersecurity
    
@@ -37,7 +38,7 @@ More coming as I progress
 
 ---
 
-### Let's connect
+## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/jaspreetk1613)
 
