@@ -4,8 +4,6 @@ body {
   background-color: #fcfcfc;
   color: #2b2b2b;
   line-height: 1.7;
-  margin: auto;
-  padding: 2rem;
 }
 
 /* Headings */
@@ -23,9 +21,6 @@ h2 {
   margin-top: 2rem;
 }
 
-
-
-
 h3 {
   color: #0077b6;
   font-size: 1.2rem;
@@ -37,12 +32,11 @@ a {
   color: #0077b6;
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
 }
 
-/* Code blocks */
+/* Code styling */
 code {
   background-color: #f4f4f4;
   padding: 0.2rem 0.4rem;
@@ -57,14 +51,35 @@ pre {
   overflow-x: auto;
 }
 
-/* Lists and spacing */
+/* Lists */
 ul, ol {
   margin-left: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
+/* Horizontal lines */
 hr {
   margin: 3rem 0;
   border: none;
   border-top: 1px solid #ccc;
+}
+
+/* Layout adjustments (keep sidebar, but clean spacing) */
+.main {
+  padding: 2rem;
+}
+
+/* Optional: improve sidebar link appearance */
+.side-bar a {
+  color: #005f73;
+}
+.side-bar a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: better site title appearance */
+.site-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #003366;
 }
