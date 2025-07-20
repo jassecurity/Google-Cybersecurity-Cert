@@ -1,6 +1,5 @@
 title: Cybersecurity Learnings
+email: jaspreetk1613@gmail.com
+github_username: jassecurity
 remote_theme: just-the-docs/just-the-docs
 
-# Enable custom CSS (optional)
-just_the_docs:
-  custom_css: assets/css/custom-style.css
