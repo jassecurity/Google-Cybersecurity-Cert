@@ -12,6 +12,7 @@ Hi, I'm Jaspreet, and this is my raw, honest documentation of everything I'm lea
 
 This isn’t polished or perfect, just raw thoughts, confusions, and whatever clicked (or didn’t) as I go through the course.
 I’ve tried to jot down real-life examples and random thoughts that helped me make sense of the concepts.
+
 It’s more like a personal scribble journal than a proper blog. So sorry if it feels messy. But that’s kind of the point.
 
 ---
