@@ -69,11 +69,9 @@ They leave infected USB drives in parking lots, hoping you’ll pick one up and 
 ### **Physical social engineering**  
 When attackers manipulate people in person by pretending to be staff, vendors, or maintenance workers to gain access to secure places, devices, or data. It’s about exploiting trust face to face, not online.
 
-
-
 ---
 
-## Fascinating Discoveries
+## Real-World Cyber Attacks
 
 ### **Morris Worm (1988)**  
 One guy tried to count internet-connected computers... and accidentally brought down 10% of the internet by creating a worm that kept reinstalling itself. This led to the creation of **CERTs** (Computer Emergency Response Teams).  
@@ -91,6 +89,22 @@ Lesson: Even “good intentions” can cause global chaos.
 ### **Equifax Breach (2017)**  
 147 million people affected, exposed names, SSNs, credit cards. All because someone didn’t patch a known vulnerability.  
 This one haunts me. It wasn't a genius hack. It was... laziness.
+
+---
+
+### Threat vs. Attack: Where Does Social Engineering Fit?
+
+At first, it was confusing- is **phishing** a threat or an attack?
+
+Here’s how I made sense of it:
+
+- A **threat** is the *possibility* of something bad happening, like knowing attackers might target your company through employee emails.  
+- An **attack** is when that threat actually happens like someone sending a fake HR email to steal login credentials.
+
+So **phishing** usually starts as **threats**.  
+But the moment someone falls for it and clicks that link? It becomes an **attack**.
+
+It’s the difference between *a fire could happen* and *your kitchen actually catching fire*.
 
 ---
 
@@ -130,5 +144,5 @@ On to Module 3: laws, frameworks, and ethics. Now that I know who’s trying to 
 
 Let’s go.
 
-[**Back to Module 1 – Stepping into the Cybersecurity World**](./module-01.md)  &nbsp; | &nbsp;  [**On to Module 3 – The Rules, The Ethics, The Frameworks**](./module-03.md)
+[**Module 1 – Stepping into the Cybersecurity World**](./module-01.md)  &nbsp; | &nbsp;  [**Module 3 – The Rules, The Ethics, The Frameworks**](./module-03.md)
 
