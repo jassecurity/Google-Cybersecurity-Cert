@@ -10,7 +10,7 @@ layout: default
 ## Stepping Into the Cybersecurity World
 
 I just finished Module 1 of Google’s Cybersecurity Certificate, and while I’ve always had an interest in security, this gave structure and shape to that curiosity.
-Forget the Hollywood stuff, black hoodies and blinking green code- this is about **real systems, real risks, and real responsibility**.  
+Forget the Hollywood stuff, black hoodies and blinking green code, this is about **real systems, real risks, and real responsibility**.  
 It’s got layers: people, tools, policies, ethics, attackers, and defenders.
 
 ---
@@ -37,18 +37,23 @@ It feels like there's a place for all kinds of minds here, not just coders.
 
 ---
 
-### Threat Actor vs. Threat vs. Vulnerability  
-Finally cleared this up:  
+### Threat Actor vs. Threat
+
 - **Threat actor** = who’s coming for you  
-- **Threat** = what they’re trying to do  
-- **Vulnerability** = what lets them in  
-It’s like understanding the difference between a **burglar**, the **robbery**, and the **open window**.
+- **Threat** = what they’re trying to do
+- 
+Think of it like this:
+A *threat actor* is the **burglar**, and the *threat* is **the break-in they’re planning.**
 
 ---
 
 ### Security Posture  
-It’s like your digital immune system.  
-Some companies are rock solid, others are basically on a junk food diet.  
+It’s like your digital immune system. Some companies are rock solid, others are basically on a junk food diet.
+
+At first, I thought “security posture” was just about how strong your tools are like what firewall or antivirus you’ve got running. But it’s deeper than that.
+You can have the best tech stack in place, but if employees are still using passwords like Password123, what’s the point?
+It’s how seriously a company treats security in their day-to-day habits.
+
 It showed me that **security isn’t just tools, it’s mindset, culture, and discipline**.
 
 ---
@@ -71,17 +76,15 @@ The enemy isn’t always external, sometimes it’s **careless insiders**.
 
 ### Security Frameworks (NIST, ISO)  
 I’ve heard "ISO certified" so many times in marketing.  
-Now I know it’s not just a sticker. It’s a **real set of guidelines and standards**.  
-Honestly, I feel a lot of companies use the label without living by the framework.
+Funny how some small companies slap on “ISO 27001 certified” like it’s a sticker without actually living by it.
+It’s a real, structured set of standards meant to guide how security should be practiced, not just marketed.
 
 ---
 
 ## What I Want to Explore More
 
 ### Cloud Security  
-Everything I use like Notion, Drive, Email runs on the cloud.  
-Learning how those systems can be **secured or attacked** made me want to explore more.  
-I want to dive into **how it's configured, permissions, shared folders**.
+I want to dive into how cloud environments are secured, from configuration and access control to permission management and data sharing.
 
 ---
 
@@ -93,7 +96,7 @@ That’s exciting.
 
 ### Security Careers  
 There’s more to this world than just “hackers” or “IT guys.”  
-Red teams, blue teams, SOC analysts, forensic investigators, compliance analyst.  
+Red teams, blue teams, SOC analysts, forensic investigators, compliance analyst, cloud security engineers. 
 I **don’t know yet where I fit**, but at least I know the terrain now. Hoping real-world projects give me clarity.
 
 ---
