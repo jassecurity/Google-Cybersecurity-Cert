@@ -5,7 +5,9 @@ nav_order: 1
 layout: default
 ---
 
-# Module 1 - Stepping Into the Cybersecurity World
+# Module 1
+
+## Stepping Into the Cybersecurity World
 
 I just finished Module 1 of Google’s Cybersecurity Certificate, and while I’ve always had an interest in security, this gave structure and shape to that curiosity.
 Forget the Hollywood stuff, black hoodies and blinking green code- this is about **real systems, real risks, and real responsibility**.  
