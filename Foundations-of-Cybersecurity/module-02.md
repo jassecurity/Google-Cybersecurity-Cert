@@ -8,18 +8,19 @@ layout: default
 # Module 2 
 ## Cyber Attacks & Human Weakness
 
-Before this module, my mental image of cybersecurity threats was mostly some guy trying to crack passwords. But Module 2 went way beyond that. It exposed me to  the *psychology* behind cyber attacks.
+Before this module, my understanding of cybersecurity attacks was pretty one-dimensional, mostly visualizing a lone hacker brute-forcing passwords. I knew phishing and scams existed, sure, but I didn’t realize just how naively people fall for them.
+Module 2 reframed everything.
 
-Turns out, the most dangerous thing in the digital world isn’t always code.
+It uncovered the human layer of cyber attacks- the manipulation, the psychology, the engineering of trust.
 
-It’s trust.
+Code is the means. Trust is the weakness.
 
 ---
 
 ## What I learned
 
 ### **Social Engineering Is Terrifying**  
-The most dangerous thing online isn’t code. It’s *us*. Social engineering works because people trust, we trust logos, email signatures, uniforms, phone voices, and anything that feels familiar or urgent.  
+Code may execute attacks, but it’s human behavior, poor configurations, and social manipulation that open the door. Social engineering works because people trust, we trust logos, email signatures, uniforms, phone voices, and anything that feels familiar or urgent.  
 Attackers weaponize that.
 
 Like the “LoveLetter” virus?  
@@ -27,29 +28,31 @@ It wasn’t just malware. It was a *love note* turned digital grenade. 45 millio
 
 ---
 
-### Malware has types. Flavors. Personalities.
+### Malware has types and roles
 
-It’s like a criminal underworld with different specialties:
+As a computer science grad, I was already familiar with the usual suspects: viruses, worms, ransomware, spyware. But what I hadn’t really thought about was why attackers choose one over the other and when.
 
-- **Viruses** – Need humans to click. 
-- **Worms** – Spread on their own. No need for permission.
-- **Ransomware** – Take your files hostage and demand money.
-- **Spyware** – Silently watch everything you do without asking.
+- **Viruses** – Need human interaction to activate. Often used when the goal is to exploit user behavior, curiosity, carelessness, or routine.
+- **Worms** – pread autonomously. Ideal for rapid, large-scale disruption without needing user input.
+- **Ransomware** – Straightforward: encrypt, demand payment. It’s the go-to for profit-driven attacks with high emotional leverage.
+- **Spyware** – Silent and persistent. Perfect for long-term surveillance or data theft that needs to stay undetected.
 
-Each one has a different goal. Some want your money. Some want your data. Some just want chaos.
+What this module did was connect the dots between *technical mechanisms* and *psychological strategy*. It’s not just about how malware works, it’s about how attackers think.
 
 ---
 
 ### Phishing Has Variants
 
-I knew about “Nigerian prince” emails and “lottery wins.” But then I met the cousins:
+The obvious scams are easy to spot like fake lottery wins, fake job offers, royalty in distress, classic bait. But phishing has evolved into something far more calculated:
 
-- **Spear Phishing** – Targeted like a sniper, using your name and role.
+- **Spear Phishing** – Personalized attacks using your name, company, or even context from LinkedIn. It’s like the attacker studied you.
 - **Whaling** – Aimed at executives like CEO, CFO (big phish = big impact)
 - **Smishing/Vishing** – Texts and phone calls pretending to be banks or support teams.
 - **BEC (Business Email Compromise)** – Faking your boss and asking you to urgently wire money or share documents.
 
-I now get why companies train employees not to click. It's not paranoia, it's survival.
+What stood out isn’t just the variety, it’s how tailored these attacks are. Phishing is less about hacking systems, and more about hacking people.
+
+This is exactly why security awareness training exists- not to be cautious, but to be ready.
 
 ---
 
@@ -64,7 +67,9 @@ You know how animals gather at a waterhole to drink, and predators just wait nea
 They leave infected USB drives in parking lots, hoping you’ll pick one up and plug it in “just to see what's on it.”
 
 ### **Physical social engineering**  
-They follow someone into a secure office pretending to be staff. A friendly “hold the door” turns into unauthorized access.
+When attackers manipulate people in person by pretending to be staff, vendors, or maintenance workers to gain access to secure places, devices, or data. It’s about exploiting trust face to face, not online.
+
+
 
 ---
 
@@ -93,7 +98,7 @@ This one haunts me. It wasn't a genius hack. It was... laziness.
 
 - **Hacktivism** – Hacking with a cause. Anonymous, WikiLeaks- digital protest or cybercrime? It’s murky but fascinating.
 
-- **Incident Response** – When something breaks, how do teams recover? I want to learn what happens *after* the red alert.
+- **Incident Response** – When systems fail, how do teams recover? I want to learn what happens *after* the red alert.
 
 - **Threat Actor Profiles** – Nation-state hackers. Insider threats. APTs (Advanced Persistent Threats). I want to study how these people think.
 
@@ -103,15 +108,14 @@ This one haunts me. It wasn't a genius hack. It was... laziness.
 
 ## What Stood Out to Me
 
-- **Humans are the weakest link.** Not those end-to-end encrypted chats on WhatsApp. It’s us, clicking weird links, downloading random videos, opening emails that scream “URGENT!”
-- **History repeats.** Most modern hacks are old tactics in new outfits.
+- **Humans are the weakest link.** It’s not the end-to-end encrypted WhatsApp chats we should worry about. It’s us clicking random links, downloading shady files.
 - **Tiny things = huge damage.** A single USB or unpatched software can cause millions in losses.
 
 ---
 
 ## My Honest Thoughts
 
-I used to scroll past news like “Your password was in a breach” alerts.  
+I used to scroll past news like “Your password was in a breach”. 
 Now I stop and think. I ask: *How did it happen? Could it have been prevented?*
 
 I’m just really curious now.
