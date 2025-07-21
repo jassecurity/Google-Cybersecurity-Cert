@@ -5,13 +5,10 @@ layout: default
 permalink: "/"
 ---
 
+ # Google Cybersecurity Certificate
 
-<h1 style="display: inline; font-size: 1.6rem; font-weight: bold; color: #003366;">
-  Google Cybersecurity Certificate
-</h1>
-<h2 style="display: inline; font-size: 1.5rem; font-weight: normal; margin-left: 0.5rem; color: #005f73;">
-  – My Personal Learning Journey
-</h2>
+## My Personal Learning Journey
+
 
 
 Hi, I'm Jaspreet, and this is my raw, honest documentation of everything I'm learning in the **Google Cybersecurity Certificate**.
