@@ -1,11 +1,12 @@
 ---
-title: "Module 2 – Diving into Cyber Attacks & Human Weakness"
+title: "Module 2 – Cyber Attacks & Human Weakness"
 parent: "Foundations of Cybersecurity"
 nav_order: 2
 layout: default
 ---
 
-# Module 2 – Diving into Cyber Attacks & Human Weakness
+# Module 2 
+## Cyber Attacks & Human Weakness
 
 Before this module, my mental image of cybersecurity threats was mostly some guy trying to crack passwords. But Module 2 went way beyond that. It exposed me to  the *psychology* behind cyber attacks.
 
@@ -125,6 +126,5 @@ On to Module 3: laws, frameworks, and ethics. Now that I know who’s trying to 
 
 Let’s go.
 
-[**Back to Module 1 – Stepping into the Cybersecurity World**](./module-01.md)  
-[**On to Module 3 – The Rules, The Ethics, The Frameworks**](./module-03.md)
+[**Back to Module 1 – Stepping into the Cybersecurity World**](./module-01.md)  &nbsp; | &nbsp;  [**On to Module 3 – The Rules, The Ethics, The Frameworks**](./module-03.md)
 
