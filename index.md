@@ -5,7 +5,7 @@ layout: default
 permalink: "/"
 ---
 
- # Google Cybersecurity Certificate
+# Google Cybersecurity Certificate
 
 ## My Personal Learning Journey
 
