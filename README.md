@@ -30,9 +30,9 @@ This repo is my open notebook, for myself, and maybe for others figuring it out 
 
 1. Foundations of Cybersecurity
    
-   [Module 1](./Foundations-of-Cybersecurity/module-01.html) *Stepping Into the Cybersecurity World*
+   [Module 1](./Foundations-of-Cybersecurity/module-01.md) *Stepping Into the Cybersecurity World*
    
-   [Module 2](./Foundations-of-Cybersecurity/module-02.html) *Diving into Cyber Attacks and Human Weakness*
+   [Module 2](./Foundations-of-Cybersecurity/module-02.md) *Diving into Cyber Attacks and Human Weakness*
 
 More coming as I progress 
 
