@@ -1,8 +1,7 @@
 ---
-title: "Home"
-nav_order: 0
-layout: default
-permalink: "/"
+title: "Hidden"
+layout: null
+nav_exclude: true
 ---
 
 # Google Cybersecurity Certificate: My Personal Learning Journey
