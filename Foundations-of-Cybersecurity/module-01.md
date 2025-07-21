@@ -40,7 +40,7 @@ It feels like there's a place for all kinds of minds here, not just coders.
 ### Threat Actor vs. Threat
 
 - **Threat actor** = who’s coming for you  
-- **Threat** = what they’re trying to do
+- **Threat** = what they’re trying to do 
 
 Think of it like this:
 A *threat actor* is the **burglar**, and the *threat* is **the break-in they’re planning.**
