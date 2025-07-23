@@ -29,10 +29,10 @@ It’s simple but everywhere. I now keep asking: *“Which part of the CIA triad
 ### 💻 Cybersecurity is way more than just hacking (even though that’s all most online course ads talk about.)
 There are so many roles! Not just “ethical hackers” but also:
 
-- Security analysts  
-- Security engineers  
-- Compliance people  
-- Even people who write policies and do risk management  
+- SOC/Security analysts  
+- Threat Hunters
+- Compliance analysts  
+- Security Engineers and many more
 
 It feels like there's a place for all kinds of minds here, not just coders.
 
@@ -66,7 +66,7 @@ It’s not just “legal stuff”, it’s **accountability**. And it’s part of
 
 ---
 
-## Stuff That Made Me Rethink
+## Stuff That Changed My Perspective
 
 ### Internal Threats  
 I assumed the bad guys are “out there.”  
