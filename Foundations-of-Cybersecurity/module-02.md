@@ -9,7 +9,6 @@ layout: default
 ## Cyber Attacks & Human Weakness
 
 Before this module, my understanding of cybersecurity attacks was pretty one-dimensional, mostly visualizing a lone hacker brute-forcing passwords. I knew phishing and scams existed, sure, but I didn’t realize just how naively people fall for them.
-Module 2 reframed everything.
 
 It uncovered the human layer of cyber attacks- the manipulation, the psychology, the engineering of trust.
 
