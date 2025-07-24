@@ -131,5 +131,5 @@ Malware, phishing, worms, and all the chaotic ways systems get compromised.
 > *Spoiler:* It involves love letters, rogue USB drives, and some wild political motives.  
 Let’s go deeper.
 
-[← Back to Index](../../index.md) &nbsp; | &nbsp; [Next: Module 2 – My Dive into Cyber Attacks →](module-02.md)
+[← Back to Index](/Google-Cybersecurity-Cert/) &nbsp; | &nbsp; [Next: Module 2 – My Dive into Cyber Attacks →](module-02.md)
 
