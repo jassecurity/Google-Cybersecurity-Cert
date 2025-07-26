@@ -1,3 +1,10 @@
+---
+title: "Module 4 – Tools That Actually Do the Work"
+parent: "Foundations of Cybersecurity"
+nav_order: 1
+layout: default
+comments: true
+---
 # Module 4
 
 ## Tools That Actually Do the Work
