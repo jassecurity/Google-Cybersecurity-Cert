@@ -1,7 +1,7 @@
 ---
 title: "Module 4 – Tools That Actually Do the Work"
 parent: "Foundations of Cybersecurity"
-nav_order: 1
+nav_order: 4
 layout: default
 comments: true
 ---
