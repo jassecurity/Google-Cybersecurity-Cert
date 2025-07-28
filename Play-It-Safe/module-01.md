@@ -1,8 +1,8 @@
 ---
 title: "Module 1 – So Who Runs This Place?"
+parent: Play It Safe
 nav_order: 1
 layout: default
-parent: Play It Safe
 ---
 
 # Course 2 – Module 1  
