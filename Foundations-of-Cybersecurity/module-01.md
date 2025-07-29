@@ -75,10 +75,10 @@ The enemy isn’t always external, sometimes it’s **careless insiders**.
 
 ---
 
-### Security Frameworks (NIST, ISO)  
-I’ve heard "ISO certified" so many times in marketing.  
-Funny how some small companies slap on “ISO 27001 certified” like it’s a sticker without actually living by it.
-It’s a real, structured set of standards meant to guide how security should be practiced, not just marketed.
+### Security Frameworks ( ISO)  
+I never really bothered to understand that there are different types of ISO certifications, I just knew I kept seeing “ISO 9001” thrown around in marketing.
+It always felt like a buzzword, slapped onto brochures to make things look official.
+I didn’t realize how different it was from something like ISO 27001, which actually focuses on information security and requires serious internal commitment.
 
 ---
 
