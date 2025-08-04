@@ -166,4 +166,4 @@ Course 1 - Foundations - done. I’m walking away with knowledge, yes. But more 
 
 *Next: deeper dives, more technical skills, and eventually, hands-on labs.*
 
-[**Module 3**](./module-03.md)  &nbsp; | &nbsp;  [**Course 2 - Module 1**](./Play-It-Safe/module-01.md))
+[**Module 3**](./module-03.md)  &nbsp; | &nbsp;  [**Course 2 - Module 1**](../../Play-It-Safe/module-01.md)
