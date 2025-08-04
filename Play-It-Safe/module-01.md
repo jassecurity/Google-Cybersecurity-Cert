@@ -166,4 +166,4 @@ The **NIST Risk Management Framework (RMF)** also made more sense now. It’s no
 
 ---
 
-[← Back to Module 4 – Tools of the Trade](../Foundation-of-Cybersecurity/module-04.md)   &nbsp; | &nbsp;   [Next: Module 2 →](module-02.md)
+[← Back to Module 4 – Tools of the Trade](../Foundations-of-Cybersecurity/module-04.md)   &nbsp; | &nbsp;   [Next: Module 2 →](module-02.md)
