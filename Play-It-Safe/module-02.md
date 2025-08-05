@@ -1,6 +1,13 @@
+
+---
+title: "Security in Practice: Frameworks, Controls, OWASP, and Audits"
+nav_order: 2
+parent: Play It Safe
+layout: default
 ---
 
-# Security in Practice: Frameworks, Controls, OWASP, and Audits
+# Module 2
+## Security in Practice: Frameworks, Controls, OWASP, and Audits
 
 Once you’ve mapped your risks, spotted your weak points, and wrapped your head around the whole CIA triad, the real work begins.
 
