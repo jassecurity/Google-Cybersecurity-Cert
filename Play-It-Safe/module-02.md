@@ -1,8 +1,7 @@
-
 ---
 title: "Security in Practice: Frameworks, Controls, OWASP, and Audits"
-nav_order: 2
 parent: Play It Safe
+nav_order: 2
 layout: default
 ---
 
