@@ -24,12 +24,11 @@ Sometimes it might feel unstructured or messy, but that’s okay. I’m not tryi
 ## Why I'm Doing This
 
 
-While I continue to enjoy working as a web project manager, I’ve also felt a strong pull to understand how things work on the security side.
+While I’ve enjoyed working as a web project manager, I’m eager to begin my career in cybersecurity.
 
-This certificate is helping me strengthen my foundation. I’m not starting from zero, but I’m intentionally revisiting the basics to fill in the gaps and grow in the right direction.
+This certificate is helping me build a strong foundation to make that shift.
 
 I’m not just aiming to finish the certificate, I’m here to truly learn, reflect, and explore.
 
-This repo is my open notebook, for myself, and maybe for others figuring it out too.
-
+This repo is my open notebook, for myself and maybe for others figuring it out too.
 ---
