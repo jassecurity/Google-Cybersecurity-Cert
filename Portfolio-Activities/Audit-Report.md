@@ -1,7 +1,8 @@
-# Botium Toys – Audit Findings Report 
+# Audit Findings Report 
+## Botium Toys
 
 **Audit Type**: Security Controls and Compliance Assessment  
-**Auditor**: [Jaspreet Kaur]  
+**Auditor**: Jaspreet Kaur
 
 ---
 
