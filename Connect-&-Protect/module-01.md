@@ -1,5 +1,5 @@
 ---
-title: " Module 3 - Network Architecture"
+title: " Module 1 - Network Architecture"
 parent: Connect & Protect
 nav_order: 1
 layout: default
